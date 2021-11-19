@@ -1,0 +1,87 @@
+{
+  "items":[
+      {
+        "serialNumber":1,
+        "name":"Rava",
+        "quantity":1,
+        "unit":"Kg",
+        "Department":"Food",
+        "Notes":"Rosted Rava"
+        
+      },
+      {
+        "serialNumber":2,
+        "name":"Potatoes",
+        "quantity":2,
+        "unit":"Kg",
+        "Department":"Vegetable/Fruits",
+        "Notes":"baby potatoes"
+        
+      },
+      {
+          "serialNumber":3,
+        "name":"Avacado",
+        "quantity":1,
+        "unit":"Kg",
+        "Department":"Fresh",
+        "Notes":"Fresh"
+        
+      },
+      {
+          "serialNumber":4,
+        "name":"Ghee",
+        "quantity":2,
+        "unit":"Kg",
+        "Department":"Canned Food",
+        "Notes":"Small can"
+      },
+      {
+          "serialNumber":5,
+        "name":"soya",
+        "quantity":1,
+        "unit":"Kg",
+        "Department":"Packet",
+        "Notes":"Packet"
+      },
+      {
+          "serialNumber":6,
+        "name":"Butter",
+        "quantity":100,
+        "unit":"gm",
+        "Department":"Dairy",
+        "Notes":"Amul"
+      },
+      {
+          "serialNumber":7,
+        "name":"chicken masala",
+        "quantity":500,
+        "unit":"gm",
+        "Department":"packet",
+        "Notes":"packet"
+      },
+      {
+          "serialNumber":8,
+        "name":"Dosa powder",
+        "quantity":1,
+        "unit":"kg",
+        "Department":"cover",
+        "Notes":"packet"
+      },
+      {
+          "serialNumber":9,
+        "name":"Apple",
+        "quantity":1,
+        "unit":"kg",
+        "Department":"fruits",
+        "Notes":"Fresh"
+      },
+      {
+          "serialNumber":10,
+        "name":"Rice",
+        "quantity":1000,
+        "unit":"gm",
+        "Department":"Basmathi rice",
+        "Notes":"packet"
+      }
+  ]
+}
